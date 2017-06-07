@@ -1,3 +1,3 @@
 # GettingGitTest
 Hello!
-Different!
+Another greeting!
